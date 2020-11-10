@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Divine_numb</string>
+    <string name="message">Попробуйте угадать число от 1 до 100</string>
+    <string name="input_text"></string>
+    <string name="divine">Угадать</string>
+    <string name="new_game">Новая игра</string>
+    <string name="tooltip"></string>
+    <string name="finish_message">Поздравляем!!!</string>
+    <string name="count_steps">Сделано ходов: </string>
+    <string name="count_time">Затрачено времени: </string>
+    <string name="reload_button">Попробуешь снова?</string>
+</resources>
